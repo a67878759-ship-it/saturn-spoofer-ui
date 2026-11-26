@@ -1,0 +1,35 @@
+# Visual Studio / MSBuild build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+*.obj
+*.exe
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.res
+*.recipe
+
+# Visual Studio local user state
+.vs/
+*.vcxproj.user
+*.suo
+*.sln.docstates
+
+# Dear ImGui runtime state
+imgui.ini
+
+# Backup locali
+*.bak
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
